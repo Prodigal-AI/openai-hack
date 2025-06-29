@@ -1,8 +1,3 @@
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 5fc174cfbf58df25171f48e5dd172669bbc4f113
 # Amazon Archaeological Discovery Platform
 
 ## Overview
